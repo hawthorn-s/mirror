@@ -1,0 +1,1 @@
+FROM hengyunabc/arthas:3.6.9-no-jdk
