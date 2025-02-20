@@ -1,1 +1,0 @@
-FROM daocloud.io/library/nginx:1.12.0-alpine
