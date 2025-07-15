@@ -1,1 +1,1 @@
-FROM mirrored-library-traefik:2.10.5
+FROM rancher/mirrored-library-traefik:2.10.5
