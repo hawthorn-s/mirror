@@ -1,0 +1,1 @@
+FROM rancher/mirrored-library-traefik:3.3.6
